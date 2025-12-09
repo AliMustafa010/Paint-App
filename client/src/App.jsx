@@ -1,11 +1,12 @@
+import Home from "./Pages/Home/Home"
 
 function App() {
 
   return (
     <>
-      Hello Paint World
+      <Home />
     </>
   )
 }
 
-export default App
+export default App;
